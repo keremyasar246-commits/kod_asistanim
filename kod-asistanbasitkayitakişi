@@ -1,0 +1,12 @@
+Kod Asistan Basit Kayıt Akışı
+Hazırlayan:Kerem Yaşar
+uygulama amacı:kullanıcıdan alınan birden fazla farklı metinsel veriyi mantıksal bir sıra dahilinde işlemek metin birleştirme operatörlerini kullanmak ve sonucu standart akış şeması sembolleriyle tasarlamak
+problem senaryosu:Kod-Asistan projesinin kullanıcı yönetim modülü tasarlanadcaktır asistanın kullanıcıya ismiyle hitap edilmesi ve sistemi kişiselleştirilebilmesi için kayıt aşamasında ad ve soyadı verilerinin ayrı ayrı alınması arka planda birleştirilerek tek bir profil kimliği haline getirilmesi gerekmektedir
+uygulama aşamaları;
+başla
+kullanıcıdan isim bilgisi al
+kullanıcıdan soy ismini al
+kullanıcı ismiyle soyadını birleştir
+kullanıcının ismiyle soy ismini ekrana yazdır 
+dur
+kaynak:Programlama temelleri ders kitabı
