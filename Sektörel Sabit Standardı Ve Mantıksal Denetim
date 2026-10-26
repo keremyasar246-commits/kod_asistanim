@@ -1,7 +1,5 @@
-# Doğru Sabit Kullanım Standardı (BÜYÜK HARF)
-PI_SAYISI = 3.14159
-MAKSIMUM_DENEME_SAYISI = 3
-SISTEM_PORT_NUMARASI = 443
-VARSAYILAN_DIL = "TR"
-KARSILAMA_MESAJI = " Sisteme Hoş Geldiniz!"
-GELISTIRICI_MODU_ACIK = True
+Kod-Asistan projesinin kullanıcı giriş panelinde siber güvenlik önlemi olarak bir kullanıcının en fazla 3 kez hatalı şifre girme hakkı bulunmaktadır.Projenin kararlılığını korumak adına bu üst sınır değeri bir sabit olarak kurgulanmıştır
+#Geliştirici Sözleşmesine Uygun Doğru Yapılandırma
+MAKSIMUM_DENEME=3
+hatali_giris_sayici=0 #bu bir değişkendir her hatalı girişte değeri artar
+MAKSIMUM_DENEME=99
