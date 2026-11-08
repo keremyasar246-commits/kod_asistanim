@@ -9,5 +9,3 @@ Kullanıcılara hesaplama, selamlama ve günlük işlemlerde yardımcı olacak b
 5. Değer eşikten küçükse alternatif işlemi yap
 6. Sonucu ekrana yazdır
 7. Bitir
-kaynakça
-10. sınıf ders kitabı.
