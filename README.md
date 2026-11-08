@@ -10,4 +10,4 @@ Kullanıcılara hesaplama, selamlama ve günlük işlemlerde yardımcı olacak b
 6. Sonucu ekrana yazdır
 7. Bitir
 kaynakça
-9. sınıf ders kitabı.
+10. sınıf ders kitabı.
